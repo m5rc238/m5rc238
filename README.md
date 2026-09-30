@@ -6,5 +6,3 @@
 * 🤔 **I’m looking for help with:** turning messy research ideas into small, working experiments.
 * 💬 **Ask me about:** product design, UX research, AI interfaces, evidence-based systems, or making software.
 * 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/marcel-akiyama/) · [Portfolio](https://mrcl.framer.website/) · [Substack](https://substack.com/@ahkwn)
-* 😄 **Pronouns:** he/him
-* ⚡ **Fun fact:** I moved from Brazil to Japan at 18, studied graphic design, got into product design through the iPhone, lived as a nomad, flipped burgers, did social volunteer work, and kept following my curiosity. Somehow, I ended up here.
