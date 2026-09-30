@@ -6,4 +6,4 @@
 * 🤔 **I’m looking for help with:** turning messy research ideas into small, working experiments.
 * 💬 **Ask me about:** product design, UX research, AI interfaces, evidence-based systems, or making software.
 * 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/marcel-akiyama/) · [Portfolio](https://mrcl.framer.website/) · [Substack](https://substack.com/@ahkwn) · [ORCID](https://orcid.org/0009-0003-2971-6854)
-* 👨‍🚀 **I'm open to:** work & collabs. feel free to reach out. https://orcid.org/0009-0003-2971-6854
+* 👨‍🚀 **I'm open to:** work & collabs. feel free to reach out.
