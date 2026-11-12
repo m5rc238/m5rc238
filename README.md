@@ -5,4 +5,4 @@
 * 🏗️ **I’m looking to collaborate on** interesting problems where AI can support better thinking, not just generate more stuff.
 * 🐇 **I like working on hard problems and have many [questions](https://m5rc238.github.io/hokku/),** but I also make [easy and simple things](https://gettablox.github.io/). 
 
-[![Marcel Akiyama profile views](https://u8views.com/api/v1/github/profiles/53423806/views/day-week-month-total-count.svg)](https://u8views.com/github/m5rc238)
+<img src="https://u8views.com/api/v1/github/profiles/53423806/views/day-week-month-total-count.svg" width="1" height="1" alt="">
